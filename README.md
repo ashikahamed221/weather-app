@@ -23,7 +23,7 @@ A user-friendly weather application that allows users to check real-time weather
   - Git
 - **output**:
 
-    - **Add images**:`path/to/![weather](https://github.com/user-attachments/assets/0ce5408d-90ac-4d17-bac1-bc54ee2d174b)
+    - **Add images**:![weather](https://github.com/user-attachments/assets/0ce5408d-90ac-4d17-bac1-bc54ee2d174b)
 
 .png` with the actual path to your image.
 
