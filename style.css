@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.cityname{
+    width:30%;
+    margin: 20px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 2rem;
+    border-radius: 5px;
+    position: relative;
+    left:30px;
+}
+button[type="submit"]{
+    padding: 10px;
+    font-size: 2rem;
+    border-radius: 5px;
+    position: relative;
+    left:30px;
+    border: none;
+}
+.display{
+    height: 70%;
+    width: 50%;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    min-width: 300px;
+    margin-left: 50px;
+    padding: 25px;
+    box-shadow: 1px 1px 10px black,-1px -1px 10px;
+}
+h1{
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+p{
+    font-size: 1.5rem;
+    margin: 5px ;
+}
+.city,.tempdisplay{
+   font-size: 3.5rem;
+   font-weight: bold;
+   color: black;
+   margin-bottom: 25px;
+}
+.humuditydisplay{
+    font-weight: bold;
+    border-bottom: 25px;
+}
+.descdisplay{
+    font-size: bold;
+    font-style: italic;
+    font-size: 2rem;
+}
+.weatheremoji{
+    margin: 0;
+    font-size: 7.5rem;
+}
+.errordisplay{
+    font-size: bold;
+    font-size: 2.5rem;
+    color:black;
+
+}
+@media screen and (max-width:1080px){
+     .cityname{
+        font-size: 1rem;
+        width:50%;
+    }
+    button[type="submit"]{
+        font-size: 1rem;
+    }
+    .errordisplay{
+        font-size: 1rem;
+    }
+    h1,p{
+        font-size: 1rem;
+    }
+  
+}
