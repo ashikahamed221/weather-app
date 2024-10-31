@@ -1,4 +1,8 @@
-
+## Name : J.ASHIK AHAMED
+## Company : CODTECH IT SOLUTIONS
+## ID : CT08DS9060
+## Domain : Frontend web Development
+## Duration : Oct to Nov 2024
 ## Description
 
 A user-friendly weather application that allows users to check real-time weather conditions and forecasts for various locations worldwide.[OpenWeatherMap API].
