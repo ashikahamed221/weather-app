@@ -1,7 +1,7 @@
 
 ## Description
 
-A user-friendly weather application that allows users to check real-time weather conditions and forecasts for various locations worldwide.[OpenWeatherMap API](https://openweathermap.org/api).
+A user-friendly weather application that allows users to check real-time weather conditions and forecasts for various locations worldwide.[OpenWeatherMap API].
 
 ## Features
 
@@ -23,7 +23,7 @@ A user-friendly weather application that allows users to check real-time weather
   - Git
 - **output**:
 
-    - **Add images**:![weather](https://github.com/user-attachments/assets/0ce5408d-90ac-4d17-bac1-bc54ee2d174b)
+  ![weather](https://github.com/user-attachments/assets/0ce5408d-90ac-4d17-bac1-bc54ee2d174b)
 
 
 
